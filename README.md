@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/arielokmi/arielokmi.git" align="center" style="width: 100%" />
-</div>  
+# ![Header](header.png)
   
 <br/> 
 
