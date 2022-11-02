@@ -4,7 +4,6 @@
 <div align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/ariel-okmian-5b35321bb" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
- <div align="center">
 <a href="https://github.com/https://github.com/arielokmi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </div>
