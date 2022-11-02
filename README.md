@@ -10,12 +10,12 @@
 </a>
 </a>  
 </div>
- <div align="center">I'm Ariel, a devops devloper 👨‍💻 also like to  share my code on open source</div>  
+
+ ###<div align="center">I'm Ariel, a devops devloper 👨‍💻 also like to  share my code on open source</div>  
   
 #### 🔭 I’m currently working on [Terraform-Ansible-Project](https://github.com/arielokmi/Terraform-Ansible-Project.git)  
 #### 🌱 I’m currently learning Terraform and Jenkis  
 <br/>  
-
 ## My Skill Set  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -29,4 +29,3 @@
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 </div>  
-
