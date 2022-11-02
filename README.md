@@ -30,7 +30,7 @@
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 </div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arielokmi&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=Arielokmi&show_icons=true&count_private=true&hide_border=true" align="center" />  
 <br>
 
 
