@@ -11,7 +11,7 @@
 </a>  
 </div>
 
- ###<div align="center">I'm Ariel, a devops devloper 👨‍💻 also like to  share my code on open source</div>  
+<div align="center">I'm Ariel, a devops devloper 👨‍💻 also like to  share my code on open source</div>  
   
 #### 🔭 I’m currently working on [Terraform-Ansible-Project](https://github.com/arielokmi/Terraform-Ansible-Project.git)  
 #### 🌱 I’m currently learning Terraform and Jenkis  
