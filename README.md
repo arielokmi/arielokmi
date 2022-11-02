@@ -1,13 +1,8 @@
 # ![Header](header.png)
 
 <br/> 
-
-
-### About Me  
 ### <div align="center">I'm Ariel, a devops devloper 👨‍💻 also like to  share my code on open source</div>  
   
-
-
 
 #### 🔭 I’m currently working on [Terraform-Ansible-Project](https://github.com/arielokmi/Terraform-Ansible-Project.git)  
 #### 🌱 I’m currently learning Terraform and Jenkis  
@@ -28,7 +23,7 @@
 </div>  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Arielokmi&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
+<br>
 ## Connect with me 
 <div align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/ariel-okmian-5b35321bb" target="_blank">
